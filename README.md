@@ -1,4 +1,4 @@
-# Event-Reservation-Management-Using-API
+# Event-Reservation-Management
 
 ## Overview
 
